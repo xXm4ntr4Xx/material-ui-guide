@@ -39,4 +39,9 @@ source code = npm i @emotion/react @emotion/styled
 <img width="384" alt="Screenshot 2022-03-14 at 12 39 01" src="https://user-images.githubusercontent.com/74420607/158173746-336ba412-254a-46d3-8c59-e715263745bd.png">
 <hr/>
 
+This is an example of how can look a MUI sign up page with the right element imported
+
+<img width="479" alt="Screenshot 2022-03-14 at 12 48 01" src="https://user-images.githubusercontent.com/74420607/158175115-753d77cc-d511-4400-a8de-045d041694ce.png">
+
+
 That's it!!!
